@@ -25,6 +25,8 @@ method in order to make the tests pass.
 
 To run the tests you will type: `rspec spec` into your terminal.
 
+_Note_: Make sure to run `bundle install` to get RSpec installed
+
 **Extra Credit**:
 For an extra challenge make it so that the `#calculate_hand` method takes into
 account Aces values of either 1 or 11.
